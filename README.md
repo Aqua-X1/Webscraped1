@@ -18,3 +18,4 @@ This is a simple automation project that scrapes quotes from [quotes.toscrape.co
 1. Install dependencies:
 ```bash
 pip install selenium pandas
+git clone https://github.com/Aqua-X1/Webscraped1.git
