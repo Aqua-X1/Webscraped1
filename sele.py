@@ -17,6 +17,6 @@ for container in containers:
 
 
 dict_i =pd.DataFrame({'quotes':quotes})
-dict_i.to_csv('quoest.csv')
+dict_i.to_csv('quotes.csv')
 print(f'Scrapes: {len(quotes)}')
 driver.quit()
